@@ -1,21 +1,5 @@
 # SQL TASK 6
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 972
-(no subject)
-Inbox
-
-Isha sadavarte <ishasadavarte7180@gmail.com>
-Attachments
-6:45 PM (2 minutes ago)
-to me
-
-
- 10 Attachments
-  •  Scanned by Gmail
 # 📊 Task 6 - Subqueries & Nested Queries (SQL)
 
 This project demonstrates the use of **subqueries and nested queries** in SQL with a sample `ecommerce` database.
